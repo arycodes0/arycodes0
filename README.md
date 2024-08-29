@@ -37,6 +37,7 @@
 <div align="center">
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
 <p>In the dynamic realm of cloud computing, I am learning to leverage leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I am currently learning:</p>
+    
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 </div>
 
