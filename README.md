@@ -4,7 +4,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Engineer about to graduate from Holberton Coding School PR, specialized in back-end and front-end development. My technical range is growing, learning everyday and staying up to date with tech trends.</p>
+    <p>I'm a Full Software Engineer graduate from Holberton Coding School in Puerto Rico. I have been a mentor at various Hackathons for kids 10 - 16 years young. I'm proud to have organized multiple Tech events for entrepreneurs, students, and overall creative innovators at the Holberton Coding School, and at Engine-4 Foundation in Puerto Rico. I am also a Founding Member at the prestigious, invitation-only Santurce Tech non-profit organization of Puerto Rico. My initiatives allow me to stand out in the industry as I continue to grow professionally. I have a particular passion for robotics, and Ai. My technical range is growing, learning everyday and staying up to date with tech trends.</p>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development career. Here are the languages I use to turn complex problems into elegant solutions:</p>
+<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development career. Here are some of the skills/tech stack I use to turn complex problems into elegant solutions:</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
