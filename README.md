@@ -4,15 +4,14 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Full Software Engineer graduate from Holberton Coding School in Puerto Rico. I have been a mentor at various Hackathons for kids 10 - 16 years young. I'm proud to have organized multiple Tech events for entrepreneurs, students, and overall creative innovators at the Holberton Coding School, and at Engine-4 Foundation in Puerto Rico. I am also a Founding Member at the prestigious, invitation-only Santurce Tech non-profit organization of Puerto Rico. My initiatives allow me to stand out in the industry as I continue to grow professionally. I have a particular passion for robotics, and Ai. My technical range is growing, learning everyday and staying up to date with tech trends.</p>
+    <p>Full Stack Software Engineer with 4+ years of experience building AI-powered tools, smart contracts, geospatial systems, and scalable web applications. Graduate of Holberton Coding School with experience spanning blockchain development, technical consulting, product innovation, and emerging AI systems. Currently expanding expertise in autonomous AI agents and workflow automation. Beyond engineering, I’ve mentored students ages 10–16 at multiple hackathons, organized technology events for entrepreneurs and innovators through Holberton Coding School and Engine-4 Foundation, and serve as a founding member of Santurce Tech. Passionate about robotics, physics, and astronomy.</p>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> Feel free to connect with me on LinkedIn for collaborations, career opportunities, or to exchange ideas about software engineering, AI, robotics, and emerging technologies. </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarezaryam@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mylinkedInlink/)
 
 ![Views](https://komarev.com/ghpvc/?username=arycodes0&style=for-the-badge)
